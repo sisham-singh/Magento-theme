@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1640" data-name="Rectangle 1640" width="31.246" height="28.61" fill="#957e4d"/>
+    </clipPath>
+  </defs>
+  <g id="Misc_Plumbing_Fittings" data-name="Misc Plumbing Fittings" transform="translate(9057 -3292)">
+    <rect id="Rectangle_1672" data-name="Rectangle 1672" width="50" height="50" transform="translate(-9057 3292)" fill="#fff" opacity="0"/>
+    <g id="Group_32105" data-name="Group 32105" transform="translate(-9048 3303)" clip-path="url(#clip-path)">
+      <path id="Path_26751" data-name="Path 26751" d="M154.607,113.229c.031-2.516.007-5.033.007-7.594h-7.866c0,.513,0,.946,0,1.379,0,3.182.027,6.364-.016,9.546-.039,2.817-2.416,4.661-4.75,3.564-.977-.459-1.671-1.52-2.66-2.466H131.8c.127.717.2,1.306.339,1.882,1.178,5.071,6.192,8.843,11.694,8.81a10.425,10.425,0,0,0,10.547-8.878,37.087,37.087,0,0,0,.228-6.243" transform="translate(-124.444 -99.74)" fill="#957e4d"/>
+      <path id="Path_26752" data-name="Path 26752" d="M103.288,32.216a1.411,1.411,0,0,0,.768.478c2.327.037,4.656.022,7.1.022a9.362,9.362,0,0,0-9.495-9.632V30.5c.649.691,1.122,1.225,1.631,1.72" transform="translate(-95.984 -21.79)" fill="#957e4d"/>
+      <path id="Path_26753" data-name="Path 26753" d="M379.648,0c-1.463-.058-1.834.44-1.776,1.847.111,2.675.029,2.685,2.693,2.7,2.462.01,4.925,0,7.461,0V.036c-2.855,0-5.62.077-8.378-.031" transform="translate(-356.781 0)" fill="#957e4d"/>
+      <path id="Path_26754" data-name="Path 26754" d="M0,3.048V13.177c1.246,0,2.425.064,3.588-.044a1.247,1.247,0,0,0,.793-.913c.061-3.013.036-6.028.036-9.171Z" transform="translate(0 -2.878)" fill="#957e4d"/>
+      <path id="Path_26755" data-name="Path 26755" d="M120.543,222.34c.335-.006.933-.357.95-.581.093-1.257.045-2.524.045-3.829h-10.16c0,1.287-.049,2.554.044,3.81.017.231.607.593.937.6q4.091.073,8.183,0" transform="translate(-105.151 -205.769)" fill="#957e4d"/>
+    </g>
+  </g>
+</svg>

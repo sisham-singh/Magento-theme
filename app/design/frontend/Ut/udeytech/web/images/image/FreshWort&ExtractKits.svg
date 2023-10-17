@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1560" data-name="Rectangle 1560" width="19.222" height="33.475" fill="#957e4d"/>
+    </clipPath>
+  </defs>
+  <g id="Fresh_Wort_Extract_Kits" data-name="Fresh Wort &amp; Extract Kits" transform="translate(9241 -3292)">
+    <rect id="Rectangle_1659" data-name="Rectangle 1659" width="50" height="50" transform="translate(-9241 3292)" fill="#fff" opacity="0"/>
+    <g id="Group_32080" data-name="Group 32080" transform="translate(-9226 3300)">
+      <g id="Group_31725" data-name="Group 31725" clip-path="url(#clip-path)">
+        <path id="Path_26001" data-name="Path 26001" d="M1.36,0H8.23c.167,1.1.961,2.314-.563,3.139-.058.031.158.939.332.971a5.367,5.367,0,0,0,2.045.034c1.553-.33,2.361.47,3.168,1.647,1.943,2.833,4,5.587,6.01,8.372V29.707c-.112.559-.27,1.113-.327,1.677-.155,1.55-.958,2.115-2.514,2.091-4.737-.073-9.475-.044-14.213-.019C.671,33.464-.05,32.832,0,31.29.25,24.083.336,16.865.8,9.672.94,7.583.43,4.914,3.394,3.486,1.357,3.119,1.347,1.843,1.438.507A2.288,2.288,0,0,0,1.36,0M15.509,13.8c-1.239-1.84-2.442-3.431-3.426-5.148a2.5,2.5,0,0,0-3.341-1.33c-1.8,6.312,1.826,6.991,6.767,6.479" transform="translate(0)" fill="#957e4d"/>
+        <path id="Path_26002" data-name="Path 26002" d="M483.2,379.54v0Z" transform="translate(-463.977 -350.179)" fill="#957e4d"/>
+      </g>
+    </g>
+  </g>
+</svg>

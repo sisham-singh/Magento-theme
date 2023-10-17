@@ -1,0 +1,34 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  width="29.477"
+  height="28.631"
+  viewBox="0 0 29.477 28.631"
+>
+  <g id="search" transform="translate(1.5 1.5)">
+    <ellipse
+      id="Ellipse_171"
+      data-name="Ellipse 171"
+      cx="10.911"
+      cy="10.959"
+      rx="10.911"
+      ry="10.959"
+      fill="none"
+      stroke="#957e4d"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="3"
+    />
+    <line
+      id="Line_430"
+      data-name="Line 430"
+      x1="6.724"
+      y1="6.724"
+      transform="translate(19.132 18.285)"
+      fill="none"
+      stroke="#957e4d"
+      stroke-linecap="round"
+      stroke-linejoin="round"
+      stroke-width="3"
+    />
+  </g>
+</svg>

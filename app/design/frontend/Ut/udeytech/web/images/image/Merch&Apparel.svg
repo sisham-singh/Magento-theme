@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1578" data-name="Rectangle 1578" width="30.545" height="28.96" fill="#957e4d"/>
+    </clipPath>
+  </defs>
+  <g id="Merch_Apparel" data-name="Merch &amp; Apparel" transform="translate(8992 -3292)">
+    <rect id="Rectangle_1675" data-name="Rectangle 1675" width="50" height="50" transform="translate(-8992 3292)" fill="#fff" opacity="0"/>
+    <g id="Group_31758" data-name="Group 31758" transform="translate(-8982 3303)" clip-path="url(#clip-path)">
+      <path id="Path_26591" data-name="Path 26591" d="M5.19,8.295,1.4,9.181C.912,7.251.368,5.378.006,3.47-.062,3.114.523,2.355.94,2.232,3.721,1.412,6.524.643,9.357.03a3.3,3.3,0,0,1,2.172.633c3.065,2,4.4,1.973,7.453-.051A3.443,3.443,0,0,1,21.333.072c2.651.567,5.244,1.4,7.885,2.017,1.2.281,1.523.884,1.221,1.982l-.049.179C30,5.68,30.022,7.552,29.1,8.4c-.745.686-2.625.139-4.173.139,0,4.637,0,9.4,0,14.157a32.852,32.852,0,0,1-.071,4.637c-.086.6-.975,1.536-1.514,1.548-5.512.114-11.028.075-16.542.063-1.471,0-1.62-1.011-1.617-2.171C5.2,21.382,5.19,15.991,5.19,10.6V8.295" transform="translate(0 0)" fill="#957e4d"/>
+    </g>
+  </g>
+</svg>
